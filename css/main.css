@@ -1,0 +1,55 @@
+.image {
+    width: auto;
+    max-width: 150px;
+    height: auto;
+    max-height: 150px;
+    float: left;
+    padding: 5px;
+    margin-right: 25px;
+    margin-left: 10px;
+    border: 3px solid rgb(0, 60, 128);
+    box-shadow: 0px 1px 8px 3px hsla(209, 100%, 25%, 0.6);
+
+}
+
+.myself {
+    text-align: justify;
+    width: 100%;
+    line-height: 2rem;
+    color: #055ba7;
+}
+
+.body {
+    background-color: #c6d7eb;
+    color: navy;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 30px;
+}
+
+h1 {
+    color: rgb(193, 218, 252);
+    padding: 10px;
+    font: 800;
+    font-family: serif;
+    font-size: 3em;
+}
+
+
+.name {
+    background-color: #1868ae;
+
+}
+
+.description {
+    background-color: #79a7d3;
+    color: #03549b;
+    padding: 10px;
+    line-height: 1.8rem;
+
+}
+
+.term {
+    font-size: 1.15rem;
+    font-weight: bold;
+
+}
